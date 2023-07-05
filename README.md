@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Carlos, Cybersecurity enthusiast!
 
-- 🔭 I’m currently working as Cloud Engineer Portuguese/Spanish/English
+- 💼 I’m currently working as Cloud Engineer Portuguese/Spanish/English
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: carlosalvarez.1880@outlook.es
 
