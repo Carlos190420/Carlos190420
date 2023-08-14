@@ -36,7 +36,7 @@
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
   </a>
-  <a href="[https://code.visualstudio.com/](https://azure.microsoft.com/pt-br/get-started/azure-portal)" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/pt-br/get-started/azure-portal" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/>
   </a>
 
